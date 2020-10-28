@@ -3,11 +3,11 @@
 You can find the deployed project here: Todo
 
 ## Labs28 HRF-B Contributors
-- Jazmine McGinnis, Web
+- Jazmine McGinnis, Backend Web
 - Juan Alvarado-Arguello, Web
 - Charlie Lu, Web
 - Samuel Brown, Web
-- Crystal Dixson, Data Science (ML)
+- Crystal Dixson, Data Science (Data)
 - Jake Dennis, Data Science (ML)
 - Robert Sharp, Data Science (API)
 
