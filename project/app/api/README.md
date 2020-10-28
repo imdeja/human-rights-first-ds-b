@@ -1,6 +1,6 @@
 # api
 
-This directory contains the DS API.
+This directory contains the DS API routes.
 
 ## Contents
 
