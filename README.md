@@ -2,7 +2,7 @@
 
 You can find the deployed project here: Todo
 
-## Labs 28 Contributors
+## Labs28 HRF-B Contributors
 - Jazmine McGinnis, Web
 - Juan Alvarado-Arguello, Web
 - Charlie Lu, Web
