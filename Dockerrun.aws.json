@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "danielbensonpoe/dslabs27hrfc",
+    "Name": "LabsDS28HRFC-B",
     "Update": "true"
   },
   "Ports": [
